@@ -15,6 +15,6 @@ A chief data scientist for a city school district is tasked with analyzing data 
 ## Analysis Summary
 * There are 14.8k schools which are part of the analysis. 
 * The average math score at all schools is 64.6%. 11th graders from public schools have the highest average, while 9th graders from charter schools have the highest.
-* The lowest reading score from all schools is 10.5%. The score is from a student in 10th grade. In total there are 569 students in 10th grade. 
+* The lowest reading score from all schools is 10.5%. The score is from a student in 10th grade at Dixon High School. In total there are 569 students in 10th grade. 
 * The average budget is $872k for charter schools and $911k for public.
 * Notes: The analysis can expanded by combining additional subsets. For example, by adding reading scores by school types and both with and without grade, and then looking for correlations in average budgets. 
